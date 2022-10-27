@@ -1,3 +1,5 @@
+package aula1controleDeFluxo;
+
 public class CondicionalIF1 {
     public static void main(String[] args){
         // só executa se a expressão dentro do if for verdadeira

@@ -1,3 +1,5 @@
+package aula1controleDeFluxo;
+
 public class CondicionalSwitch {
     public static void main(String[] args){
         // imprimir o dia da semana. Considerando domingo como dia 1.

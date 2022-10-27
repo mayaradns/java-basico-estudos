@@ -1,3 +1,5 @@
+package aula1controleDeFluxo;
+
 public class CondicionalOpTernario {
     public static void main(String[] args){
         // condição ? se verdadeiro : se falso;
