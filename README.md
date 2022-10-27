@@ -29,4 +29,4 @@ Tabuada de 5:\
 2 - Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário.
   Ex.: 5!=5.4.3.2.1=120.
 
-[Minha resolução aquí]()
+[Minha resolução aquí](https://github.com/mayaradns/java-basico-estudos/tree/main/src/aula2EstrutasRepeticao)
