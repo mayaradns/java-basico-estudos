@@ -2,7 +2,7 @@
 
 Repositório feito para arquivar meus estudos sobre java básico.
 
-[DIO - Potência Tech powered by iFood - Java Beginners](https://web.dio.me/home) \
+[DIO - Potência Tech powered by iFood - Java Beginners](https://www.dio.me/) \
 [Devdojo - Maratona Java Virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
 
 Repetição com teste no início (**while**) \
@@ -39,4 +39,6 @@ Tabuada de 5:\
 1 - Faça um Programa que leia um vetor de 5 números inteiros e mostre-os na ordem inversa. \
 2 - Faça um Programa que leia um vetor de 6 caracteres, e diga quantas consoantes foram lidas. Imprima as consoantes. \
 3 - Faça um Programa que leia 20 números inteiros aleatórios (entre 0 e 100) armazene-os num vetor. Ao final, mostre os números e seus sucessores. \
-4 - Gere e imprima uma matriz M 4x4 com valores aleatórios entre 0-9. Após isso determine o menor número da matriz e a sua posição(linha, coluna).
+4 - Gere e imprima uma matriz M 4x4 com valores aleatórios entre 0-9. Após isso determine o menor número da matriz e a sua posição(linha, coluna). \
+
+[Minha resolução aqui.](https://github.com/mayaradns/java-basico-estudos/tree/main/src/aula3Arrays/ExerciciosArray)
