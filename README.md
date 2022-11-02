@@ -9,7 +9,7 @@ Repetição com teste no início (**while**) \
 Repetição com teste no final (**do-while**) \
 Repetição contada (**for**)
 
-### [Exercícios estrutas de repetição Dio](https://github.com/cami-la/loops-e-arrays)
+### [Exercícios estruturas de repetição Dio](https://github.com/cami-la/loops-e-arrays)
 
 * **While** \
 1 - Faça um programa que leia conjuntos de dois valores, o primeiro representando o nome do aluno 
